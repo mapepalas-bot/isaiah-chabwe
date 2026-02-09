@@ -1,6 +1,6 @@
 NAME: Isaiah Chabwe
 SIN: 2502813957
-GitHub Repository:https://github.com/mapepalas-bot/isaiah-chabwe.git
+GitHub Repository:
 QUESTION 2 FOR HTML
 1. Most challenging Elements
    -pictures:it was challenging because it required adding source file and compatibility support
